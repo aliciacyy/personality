@@ -11,5 +11,5 @@ export default defineConfig({
 		react(),
 	],
 	site: `https://aliciacyy.github.io`,
-	base: '/personality',
+	base: 'personality',
 });

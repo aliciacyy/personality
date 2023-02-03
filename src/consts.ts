@@ -37,8 +37,9 @@ export type Sidebar = Record<
 export const SIDEBAR: Sidebar = {
 	en: {
 		'Contents': [
-			{ text: 'Introduction', link: 'en/introduction' },
-			{ text: 'PrinciplesYou', link: 'en/principles-you' },
+			{ text: 'Introduction', link: 'personality/en/introduction' },
+			{ text: 'PrinciplesYou', link: 'personality/en/principles-you' },
+			{ text: '16Personalities', link: 'personality/en/16personalities' },
 		]
 	},
 };
