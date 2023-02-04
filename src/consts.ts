@@ -39,6 +39,7 @@ export const SIDEBAR: Sidebar = {
 		'Contents': [
 			{ text: 'Introduction', link: 'personality/en/introduction' },
 			{ text: '16Personalities', link: 'personality/en/16personalities' },
+			{ text: 'Dimensional', link: 'personality/en/dimensional' },
 			{ text: 'PrinciplesYou', link: 'personality/en/principles-you' },
 			{ text: 'Type in Mind', link: 'personality/en/typeinmind' },
 		]
