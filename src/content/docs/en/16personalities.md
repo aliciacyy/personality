@@ -5,8 +5,11 @@ description: "16Personalities"
 
 https://www.16personalities.com/
 
+*Last updated: 2023-02-04*
+
 ## Personality type
-<ins>**Logistician (ISTJ-T)**</ins>
+
+### Logistician (ISTJ-T)
 
 Logisticians are practical and fact-minded individuals, whose reliability cannot be doubted.
 

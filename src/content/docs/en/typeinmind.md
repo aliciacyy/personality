@@ -5,6 +5,8 @@ description: "Type in Mind"
 
 https://www.typeinmind.com
 
+Note: The assessment is not working, so I just referred to the type description for my type.
+
 ## SiTe (ISTJ)
 
 ###  Si - introverted Sensing

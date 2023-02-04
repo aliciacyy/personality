@@ -5,6 +5,8 @@ description: "PrinciplesYou"
 
 https://principlesyou.com/
 
+*Last updated: 2023-02-04*
+
 ## Your Archetype
 You are most like:
 - Individualist (Best match)

@@ -9,4 +9,4 @@ Got tired of forgetting the results of all the personality related quizzes that 
 
 ## MBTI
 
-I'm ISTJ on 16personalities, but ISTP on Dimensional.
+I'm ISTJ on 16personalities, but ISTP on Dimensional. Leaning more towards ISTJ though.

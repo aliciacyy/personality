@@ -5,6 +5,8 @@ description: "Dimensional"
 
 https://www.dimensional.me/
 
+*Last updated: 2023-02-04*
+
 ## Identity
 
 ### The Craftsperson (ISTP)
@@ -33,11 +35,11 @@ ISTPs are happiest in a state of constant change. They seek flexibility in their
 
 #### Healthy Adaptations
 
-• Seeking out careers where they can perfect skills and work somewhat independently
-• Being honest about their needs of independence and space with close friends or intimate partners
-• Not over-committing themselves too far in advance, but following through on the commitments they do make
-• Picking up a variety of different hobbies that use different skill sets, while making an effort to complete a task or project before moving onto the next
-• Storing spontaneous energy for their free-time, so that they can focus on the top priority tasks (both at work and at home)
+- Seeking out careers where they can perfect skills and work somewhat independently
+- Being honest about their needs of independence and space with close friends or intimate partners
+- Not over-committing themselves too far in advance, but following through on the commitments they do make
+- Picking up a variety of different hobbies that use different skill sets, while making an effort to complete a task or project before moving onto the next
+- Storing spontaneous energy for their free-time, so that they can focus on the top priority tasks (both at work and at home)
 
 ### Leadership
 
@@ -51,10 +53,10 @@ Craftspeople are free-thinkers, and often know what it is they want and how they
 
 #### Unhealthy Adaptations
 
-• Being flighty at the beginning stages of a relationship out of fear of commitment
-• Exhibiting impulsive risk-taking behavior out of a need to mix up their routines
-• Quitting a job, relationship, or project early out of boredom and restlessness, leading to missed opportunities or a failure to master a certain skill set
-• Struggling to adapt to boundaries or rules set by others around them out of an aversion to repetition and restriction
+- Being flighty at the beginning stages of a relationship out of fear of commitment
+- Exhibiting impulsive risk-taking behavior out of a need to mix up their routines
+- Quitting a job, relationship, or project early out of boredom and restlessness, leading to missed opportunities or a failure to master a certain skill set
+- Struggling to adapt to boundaries or rules set by others around them out of an aversion to repetition and restriction
 
 ### Research
 
