@@ -17,8 +17,6 @@ You are most like:
 
 Individualists walk to the beat of their own drum and find unique ways of expressing themselves and their originality. They tend to be creative, independent, expressive, perceptive and at times sensitive and dramatic.
 
-Individualists walk to the beat of their own drum and find unique ways of expressing themselves and their originality.
-
 Typical Individualists make an art out of brushing aside tradition and conventions to do things their own way. They are always on the hunt for novel ways of doing things, defying the rules with a flare for the creative and sometimes for the dramatic. They are driven to express their individuality and don't let anyone else define who they are or dictate what they do.
 
 Individualists tend to feel deeply and tap into an emotional layer that can drive their decisions and actions. At the same time, it can also mean they can be temperamental and experience self-doubt. They can be particularly sensitive to criticism.
